@@ -1,0 +1,9 @@
+Django>=3.2
+django-clickhouse
+django-clickhouse-backend
+clickhouse-pool
+clickhouse-driver==0.2.9
+psycopg2-binary
+pytz
+tzlocal
+djangorestframework
